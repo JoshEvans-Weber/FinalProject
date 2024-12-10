@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -111.8226,
+    "lat": 41.747
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 1.63,
+    "feels_like": -0.63,
+    "temp_min": 0.37,
+    "temp_max": 2.56,
+    "pressure": 1035,
+    "humidity": 50,
+    "sea_level": 1035,
+    "grnd_level": 839
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.06,
+    "deg": 140
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1733865122,
+  "sys": {
+    "type": 2,
+    "id": 2006059,
+    "country": "US",
+    "sunrise": 1733841854,
+    "sunset": 1733875006
+  },
+  "timezone": -25200,
+  "id": 0,
+  "name": "Logan",
+  "cod": 200
+}

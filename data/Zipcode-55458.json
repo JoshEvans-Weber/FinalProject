@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -93.2638,
+    "lat": 44.98
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": -4.68,
+    "feels_like": -10.13,
+    "temp_min": -5.49,
+    "temp_max": -3.52,
+    "pressure": 1016,
+    "humidity": 70,
+    "sea_level": 1016,
+    "grnd_level": 982
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.12,
+    "deg": 310
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1733865275,
+  "sys": {
+    "type": 2,
+    "id": 2003423,
+    "country": "US",
+    "sunrise": 1733838053,
+    "sunset": 1733869896
+  },
+  "timezone": -21600,
+  "id": 0,
+  "name": "Minneapolis",
+  "cod": 200
+}

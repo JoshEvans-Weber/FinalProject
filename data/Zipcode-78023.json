@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -98.7542,
+    "lat": 29.6321
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 14.36,
+    "feels_like": 13.08,
+    "temp_min": 13.49,
+    "temp_max": 15.55,
+    "pressure": 1020,
+    "humidity": 47,
+    "sea_level": 1020,
+    "grnd_level": 973
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.72,
+    "deg": 350,
+    "gust": 10.8
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1733865412,
+  "sys": {
+    "type": 2,
+    "id": 2019628,
+    "country": "US",
+    "sunrise": 1733836785,
+    "sunset": 1733873800
+  },
+  "timezone": -21600,
+  "id": 0,
+  "name": "Helotes",
+  "cod": 200
+}

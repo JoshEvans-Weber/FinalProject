@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -111.9489,
+    "lat": 41.1894
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 1.58,
+    "feels_like": -2.07,
+    "temp_min": 0.81,
+    "temp_max": 2.55,
+    "pressure": 1034,
+    "humidity": 47,
+    "sea_level": 1034,
+    "grnd_level": 861
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 220
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1733865412,
+  "sys": {
+    "type": 2,
+    "id": 2012170,
+    "country": "US",
+    "sunrise": 1733841779,
+    "sunset": 1733875142
+  },
+  "timezone": -25200,
+  "id": 0,
+  "name": "Ogden",
+  "cod": 200
+}
